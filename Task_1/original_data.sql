@@ -20,3 +20,4 @@ group by all );
 
 select * from cte
 unpivot include nulls (payload for KPI_values in ( Quantity,TGS , TNS ));
+
