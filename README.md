@@ -72,3 +72,13 @@ These dimensions allow analysts to group, filter, and aggregate data by meaningf
 | `sales.sql` | Represents measurable business events (e.g., sales transactions), combining metrics from `Sat_Sales_Measures` and keys from links and hubs. |
 
 The fact table serves as the central point of analysis. It is often filtered or grouped by dimensions during reporting.
+
+---
+# Task_2 - Data Warehouse Design Proposal
+
+The proposed data model is based on a dimensional star schema, looking for being useful for fast analytical queries and business insights. 
+Divided in dimension tables, that have the data from the entities and the fact tables, that will be the ones that link the content of the dimension tables. 
+
+Find the documents and presentation in the folder Task_2 
+
+
