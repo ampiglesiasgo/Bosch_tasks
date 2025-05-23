@@ -1,4 +1,4 @@
-# Bosch tasks
+
 
 # Task_1 - Data Vault & Dimensional Model
 
